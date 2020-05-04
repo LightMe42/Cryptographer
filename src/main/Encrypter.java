@@ -1,3 +1,4 @@
+package main;
 public class Encrypter {
     StringBuilder encMsg = new StringBuilder();
     String msg;
